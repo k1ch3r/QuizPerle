@@ -4,6 +4,6 @@ Ein kleines Eingewöhnungsprojekt in Perl um mich mit der Syntax vertraut zu mac
 
 ## ToDo
 
-- Optionen ausdenken und implimentieren nachdem der Fragenpool ausgeht
+- Optionen ausdenken und implementieren nachdem der Fragenpool ausgeht
 - evtl. speichern und lesen von daten in einer csv Datei?
 - ?!:O
