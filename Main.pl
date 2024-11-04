@@ -17,7 +17,7 @@ my @questions = QuestionData::get_questions();
 print "Welcome to this stupid little quiz app!\n";
 
 while ($running) {
-    my $q_index = int(rand(@questions.length()));
+    my $q_index = int(rand(scalar(@questions)));
     my $q = draw_random(\@questions);
     my @roundScore = $q -> ask();
     $q_count++;
